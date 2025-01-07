@@ -37,8 +37,8 @@ A RESTful API for an e-commerce platform built with Node.js, Express, and MongoD
 
 ### Queries
 - GET api/query/second-highest-order
-- GET api/analytics/monthly-analysis-2023
-- GET api/analytics/low-selling-products
+- GET api/query/monthly-analysis-2023
+- GET api/query/low-selling-products
 
 ## Installation
 
